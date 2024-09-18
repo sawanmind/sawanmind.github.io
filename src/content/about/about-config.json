@@ -1,0 +1,115 @@
+{
+    "educations": [
+        {
+            "id": "edu-1",
+            "school": "Manav Rachna University",
+            "degree": "Bachelor of Technology in Computer Science & Engineering",
+            "duration": "Aug 2011 - May 2015",
+            "content": []
+        },
+        {
+            "id": "edu-2",
+            "school": "Purnea College Purnea",
+            "degree": "Higher Secondary Examination",
+            "duration": "April 2010 - March 2011",
+            "content": []
+        }
+    ],
+    "experiences": [
+        {
+            "id": "exp-1",
+            "company": "Pluang",
+            "position": "Engineering Lead",
+            "duration": "April 2022 - Present",
+            "description": [
+                "Led a team of 4 engineers to develop and optimize the Pluang and Paham app, resulting in a 50% increase in feature delivery speed and 20% enhancement in user retention.",
+                "Spearheaded CI/CD pipeline optimizations, reducing release time by 30% and improving overall deployment efficiency.",
+                "Mentored junior developers, enhancing team productivity and code quality, leading to a 30% reduction in bug rate post-deployment."
+            ]
+        },
+        {
+            "id": "exp-2",
+            "company": "INDMoney",
+            "position": "Senior Software Engineer",
+            "duration": "August 2019 - April 2022",
+            "description": [
+                "Implemented a micro app-based architecture using VIPER, which accelerated development cycles by 40% and improved modularity and code maintainability.",
+                "Automated KYC processes using Server-Driven UI, reducing onboarding time by 20% and achieving annual cost savings of $100,000.",
+                "Developed new user engagement features that contributed to a 25% increase in app sessions."
+            ]
+        },
+        {
+            "id": "exp-3",
+            "company": "Smartivity Labs",
+            "position": "iOS Developer",
+            "duration": "February 2018 - August 2019",
+            "description": [
+                    "Developed the Smartivity Magico iOS app using CoreML and Vision, achieving 95% object recognition accuracy.",
+                    "Significantly enhanced the app’s educational value and user experience."
+            ]
+        },
+        {
+            "id": "exp-4",
+            "company": "CTE International",
+            "position": "iOS Developer",
+            "duration": "August 2017 - January 2018",
+            "description": [
+                    "Built and launched the Mobi-Hub marketplace app, leading to a 50% increase in user engagement.",
+                    "Achieved this through innovative UI/UX optimizations and seamless in-app navigation."
+            ]
+        },
+        {
+            "id": "exp-5",
+            "company": "Xperia Technologies",
+            "position": "iOS Developer",
+            "duration": "July 2015 - July 2017",
+            "description": [
+                    "Designed and developed the Xperia travel app, leveraging location-based services to boost user engagement by 40%.",
+                    "Achieved a 30% growth in active users within the first year."
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "title": "Programming Language",
+            "tools": ["Swift", "Objective C", "Java"]
+        },
+        {
+            "title": "Frameworks & Tools",
+            "tools": ["UIKit", "SwiftUI", "CoreData", "Combine", "XCTest", "GraphQL", "Spring Boot", "Jenkins", "Fastlane"]
+        },
+        {
+            "title": "Databases",
+            "tools": ["Firebase DB", "SQLLite", "MySQL", "Oracle SQL"]
+        },
+
+        {
+            "title": "Architectures",
+            "tools": ["MVC", "MVVM", "VIPER", "Micro App-Based Architecture", "Server-Driven UI"]
+        },
+        {
+            "title": "Practices",
+            "tools": ["Agile", "SOLID", "Test-Driven Development(TDD)", "Continuous Integration/Continuous Deployment", "Code Review", "Unit Testing"]
+        },
+        {
+            "title": "Soft Skills",
+            "tools": ["Team Leadership", "Mentorship", "Strategic Planning", "Cross-Functional Collaboration"]
+        },
+        {
+            "title": "Other Skills",
+            "tools": ["Performance Optimization", "Memory Management", "AppStore Deployment", "App Security"]
+        }
+    ],
+    "blog": [
+        {
+            "id": "blog-1",
+            "title": "Follow the iOS Learning channel on WhatsApp",
+            "link": "https://whatsapp.com/channel/0029VaDGTjNJJhzSAxlvgu1p"
+        },
+        {
+            "id": "blog-2",
+            "title": "Follow me on Medium",
+            "link": "https://medium.com/@sawanmind"
+        }
+    ]
+}

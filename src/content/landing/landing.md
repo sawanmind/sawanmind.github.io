@@ -1,0 +1,3 @@
+**I’m Sawan Kumar – Lead iOS Engineer**
+
+With 9+ years of iOS development experience, I specialize in building high-performance apps using **Swift**, **Objective C**,  **UIKit**, **SwiftUI**, and modern architecture patterns like **MVVM**, **VIPER**, and **Clean Architecture**. My expertise extends to **backend development**, allowing me to deliver full-stack solutions that are both robust and scalable. I’m a problem-solver at heart, passionate about mentoring engineers, implementing **best practices**, and leveraging cutting-edge technologies like **prompt engineering**. I thrive in dynamic environments, driving impactful results with every project.

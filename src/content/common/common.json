@@ -1,0 +1,32 @@
+{
+    "name": "Sawan Kumar",
+    "logoType": {
+        "mobile": "Sawan Kumar",
+        "desktop": "Sawan Kumar"
+    },
+    "mainPicture": "/assets/sawanmind.webp",
+    "mainPictureJPG": "/assets/sawanmind.jpeg",
+    "cssVarPrefix": "sawanmind",
+    "email": "sawanmind@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/sawanmind/",
+    "github": "https://github.com/sawanmind",
+    "resume": "https://docs.google.com/document/d/1DC6XzDadYMwExcBf03qvGPeeXJnMf80Al-SvyXvD03Q/edit?usp=sharing/export?format=pdf",
+    "socials": [
+        {
+            "type": "linkedin",
+            "link": "https://www.linkedin.com/in/sawanmind/"
+        },
+        {
+            "type": "github",
+            "link": "https://github.com/sawanmind"
+        },
+        {
+            "type": "mail",
+            "link": "mailto:sawanmind@gmail.com"
+        },
+        {
+            "type": "whatsapp",
+            "link": "https://wa.me/+919910161701"
+        }
+    ]
+}
