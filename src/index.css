@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Manrope", ui-sans-serif, system-ui, sans-serif;
+  --font-body: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+  --font-serif: "Playfair Display", serif;
+
+  --color-surface: #F7F8F3;
+  --color-surface-bright: #F7F8F3;
+  --color-surface-container: #EDF0E8;
+  --color-surface-container-low: #F1F3ED;
+  --color-surface-container-high: #E9EBE0;
+  --color-surface-container-highest: #DAE0D2;
+  --color-primary: #5A6A4E;
+  --color-primary-container: #A3B18A;
+  --color-on-primary-container: #2C3325;
+  --color-secondary-container: #DDE2D6;
+  --color-on-secondary-container: #5A6A4E;
+  --color-accent: #D4A373;
+  --color-on-surface: #2C3325;
+  --color-on-surface-variant: #3D4333;
+  --color-outline: #8C957D;
+  --color-outline-variant: #DAE0D2;
+}
+
+@layer base {
+  body {
+    @apply bg-surface text-on-surface-variant font-body antialiased selection:bg-primary/20;
+  }
+}
+
+.ethereal-card {
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(8px);
+  border: 1px solid var(--color-outline-variant);
+  box-shadow: 0 4px 20px -2px rgba(90, 106, 78, 0.05);
+}
+
+.code-container {
+  background: #2C3325;
+  border-radius: 2rem;
+}
+
+/* Hide scrollbar but keep functionality */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

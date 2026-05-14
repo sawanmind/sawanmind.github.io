@@ -1,0 +1,339 @@
+{
+  "personal": {
+    "name": "Sawan Kumar",
+    "headline": "Software Engineer with 11+ years building scalable, high-performance consumer applications",
+    "headlineHighlight": "11+ years",
+    "tagline": "Deep expertise in mobile engineering with a focus on Apple platforms. Specialized in system architecture, production stability, modular design, and performance optimization. Passionate about solving complex technical challenges that require elegant engineering solutions at scale.",
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQHzufzOxdPifw/profile-displayphoto-shrink_200_200/B56ZWf6KCmHEAc-/0/1742144578458?e=2147483647&v=beta&t=IOuQb7Z-3cX-yj084zGAXIzKvjLAmeSJQExzSPOCEEY",
+    "version": "v1.1.0",
+    "availability": {
+      "status": "available",
+      "text": "Seeking Principal/Staff iOS roles building secure, high-scale consumer applications where architecture, performance, and production stability are critical",
+      "tags": ["iOS Platform Architecture", "System Design at Scale", "Modular Architecture & Micro Apps", "Production Stability Engineering"]
+    }
+  },
+
+  "hero": {
+    "currentProject": {
+      "name": "Norton VPN Platform",
+      "label": "Production Systems",
+      "status": "LIVE",
+      "progress": 98
+    },
+    "stats": {
+      "downloads": "10M+",
+      "downloadsDescription": "Key Products: Norton VPN • Avast SecureLine VPN • HMA VPN • Pluang • INDMoney",
+      "appsCount": 5
+    }
+  },
+
+  "techStack": {
+    "title": "Technical Expertise",
+    "description": "11+ years mastering iOS platform engineering—from native frameworks to system architecture, performance optimization to production reliability.",
+    "expertise": "Principal Engineer",
+    "technologies": [
+      {
+        "name": "Swift",
+        "icon": "cpu",
+        "description": "Expert"
+      },
+      {
+        "name": "Objective-C",
+        "icon": "cpu",
+        "description": "Advanced"
+      },
+      {
+        "name": "UIKit",
+        "icon": "layers",
+        "description": "Master"
+      },
+      {
+        "name": "SwiftUI",
+        "icon": "layers",
+        "description": "Expert"
+      },
+      {
+        "name": "Core ML",
+        "icon": "zap",
+        "description": "ML/Vision"
+      },
+      {
+        "name": "Combine",
+        "icon": "zap",
+        "description": "Reactive"
+      },
+      {
+        "name": "GraphQL",
+        "icon": "database",
+        "description": "APIs"
+      },
+      {
+        "name": "CI/CD",
+        "icon": "cpu",
+        "description": "Automation"
+      }
+    ]
+  },
+
+  "experience": [
+    {
+      "role": "Principal Software Engineer",
+      "company": "Gen Digital (Symantec Corporation)",
+      "companyUrl": "https://www.gendigital.com",
+      "period": "MAR 2025 — PRESENT",
+      "description": [
+        "Drove cross-functional stability initiative, reduced 100+ high-priority bugs to fewer than 5 within 2 months",
+        "Provided technical leadership for end-to-end delivery of high-impact iOS features across Norton VPN, Avast SecureLine VPN, and HMA VPN",
+        "Delivered production stability and performance improvements for large-scale VPN applications",
+        "Identified and resolved system-level bottlenecks affecting app performance, networking reliability, and production stability"
+      ],
+      "tags": ["Technical Leadership", "Cross-functional Collaboration", "Production Stability", "Performance Optimization"]
+    },
+    {
+      "role": "Engineering Lead",
+      "company": "Pluang",
+      "companyUrl": "https://www.pluang.com",
+      "period": "APR 2022 — MAY 2024",
+      "description": [
+        "Improved engineering delivery velocity by 50% through workflow optimization and technical process improvements",
+        "Reduced release cycle time by 30% through CI/CD pipeline optimization and release engineering improvements",
+        "Reduced post-release bugs by 30% through systematic quality improvements and engineering best practices"
+      ],
+      "tags": ["Engineering Leadership", "CI/CD Pipeline", "Process Optimization", "Quality Engineering"]
+    },
+    {
+      "role": "Senior Software Engineer",
+      "company": "INDMoney",
+      "companyUrl": "https://www.indmoney.com",
+      "period": "AUG 2019 — APR 2022",
+      "description": [
+        "Architected scalable micro app-based mobile platform, improving development velocity by 40%",
+        "Implemented Server-Driven UI architecture, reduced development costs and saved $100K annually",
+        "Increased user engagement by 25% through performance optimizations and rapid feature delivery",
+        "Built modular architecture enabling parallel team development"
+      ],
+      "tags": ["Platform Architecture", "Micro Apps", "Server-Driven UI", "Cost Optimization"]
+    },
+    {
+      "role": "iOS Developer",
+      "company": "Smartivity Labs",
+      "companyUrl": "https://smartivity.in",
+      "period": "FEB 2018 — AUG 2019",
+      "description": [
+        "Developed Smartivity Magico iOS app using Core ML, Vision, OpenCV, and image-processing pipelines, achieving 95% object recognition accuracy",
+        "Built educational app merging machine learning with augmented reality for interactive learning experiences"
+      ],
+      "tags": ["Core ML", "Computer Vision", "AR Integration", "OpenCV"]
+    },
+    {
+      "role": "iOS Developer",
+      "company": "CTE International",
+      "period": "AUG 2017 — JAN 2018",
+      "description": [
+        "Built and launched Mobi-Hub marketplace app, leading to 50% increase in user engagement",
+        "Delivered end-to-end iOS application from concept to App Store through innovative UI/UX optimizations"
+      ],
+      "tags": ["UI/UX Design", "Product Development", "User Engagement", "E-commerce"]
+    },
+    {
+      "role": "iOS Developer",
+      "company": "Xperia Technologies",
+      "period": "JUL 2015 — JUL 2017",
+      "description": [
+        "Designed and developed Xperia travel app leveraging location-based services, increased user engagement by 40% and achieved 30% growth in active users",
+        "Early career foundation in native iOS development and user-centric design"
+      ],
+      "tags": ["Location Services", "MapKit", "User Growth", "Travel Apps"]
+    }
+  ],
+
+  "skills": {
+    "title": "Core Competencies",
+    "items": [
+      {
+        "label": "iOS Platform Engineering",
+        "value": 98,
+        "level": "Expert"
+      },
+      {
+        "label": "System Design & Architecture",
+        "value": 97,
+        "level": "Expert"
+      },
+      {
+        "label": "Swift & Objective-C",
+        "value": 99,
+        "level": "Master"
+      },
+      {
+        "label": "Performance & Reliability",
+        "value": 98,
+        "level": "Expert"
+      },
+      {
+        "label": "Technical Leadership",
+        "value": 96,
+        "level": "Expert"
+      },
+      {
+        "label": "CI/CD & Release Engineering",
+        "value": 95,
+        "level": "Expert"
+      }
+    ]
+  },
+
+  "projects": {
+    "title": "Featured Projects",
+    "subtitle": "Production iOS apps serving millions across security, fintech, health, and education. Real-world impact through technical excellence and elegant engineering solutions.",
+    "items": [
+      {
+        "title": "Norton VPN",
+        "category": "SECURITY & NETWORKING",
+        "description": "Top-performing VPN with advanced privacy protections and parental controls. Location changing across 28 countries with automatic connection on public networks. Ad tracker blocking and no-log policy verified by third-party audit. Bank-grade encryption with global high-speed servers and dynamic scaling. Providing technical leadership for end-to-end delivery of high-impact iOS features.",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/df/7f/aedf7f17-e8c1-b560-8bd9-8c0a933933bd/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/1200x630wa.png",
+        "linkText": "App Store",
+        "link": "https://apps.apple.com/us/app/norton-vpn-fast-secure/id1095519285",
+        "icon": "apple"
+      },
+      {
+        "title": "Avast SecureLine VPN",
+        "category": "SECURITY & NETWORKING",
+        "description": "Fast and simple VPN for iPhone to stay safer and more private when accessing your favorite apps and websites. One-button activation with access to 100+ servers worldwide. Automatic reconnection when switching between data and Wi-Fi with encryption on public networks. Enhanced VPN connection lifecycle across unstable networks, improving reliability and user experience at scale.",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/b0/99/3bb09999-8e30-c979-2008-b3bb588be5de/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
+        "linkText": "App Store",
+        "link": "https://apps.apple.com/us/app/avast-secureline-vpn-proxy/id793096595",
+        "icon": "apple"
+      },
+      {
+        "title": "Pluang",
+        "category": "FINTECH & TRADING",
+        "description": "All-in-one investment platform serving 13 million investors with 650+ US Stocks, 620+ Crypto Assets, and 950+ Indonesian Stocks. Features Aura AI—Indonesia's first AI assistant for market analysis. Zero transaction fees with segregated account system and custodian bank protection. Led engineering team to accelerate delivery pipeline 50% while cutting release cycles 30% and production bugs 30%.",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/b5/c5/c0b5c5a5-abc1-9624-2904-4d76e2b174dd/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/1200x630wa.png",
+        "linkText": "App Store",
+        "link": "https://apps.apple.com/id/app/pluang-trading-saham-as-crypto/id1341588054",
+        "icon": "apple"
+      },
+      {
+        "title": "INDmoney",
+        "category": "FINTECH & INVESTMENT",
+        "description": "Investment platform for NRIs with 5000+ stocks and 1500+ mutual funds. FREE demat account with ₹0 maintenance charges. Real-time portfolio tracking with P&L calendar, dividend tracking, and sectoral allocation analysis. Architected micro-app architecture enabling 40% faster feature delivery and Server-Driven UI that eliminated $100K/year in maintenance costs.",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/50/9b/60509b4b-056c-acb3-446e-c35dad0bb9fe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
+        "linkText": "App Store",
+        "link": "https://apps.apple.com/ie/app/indmoney-nri-investing-app/id6748059906",
+        "icon": "apple"
+      },
+      {
+        "title": "Sharecare",
+        "category": "HEALTH & WELLNESS",
+        "description": "Health and wellness app with personalized RealAge assessment comparing biological age to calendar age. Daily health metrics tracking including steps, weight, sleep, stress, and blood pressure. Secure centralized storage for health records, lab results, and medications. Doctor finder tool and symptom checker with Apple Health integration.",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/b0/5a/fab05ac3-b1cc-596a-4f59-d3bec0d43fc7/AppIcon-0-1x_U007emarketing-0-6-0-85-220-0.png/1200x630wa.png",
+        "linkText": "App Store",
+        "link": "https://apps.apple.com/us/app/sharecare-health-well-being/id964313779",
+        "icon": "apple"
+      },
+      {
+        "title": "Smartivity Magico",
+        "category": "EDUCATION & ML",
+        "description": "Free companion app transforming smartphones into educational devices through augmented reality and computer vision. Teaches basics of Maths, Spellings, and Shapes through engaging games. AI-driven learning interface with number recognition, letter recognition, and shape identification. Built ML-powered educational app achieving 95% object recognition accuracy using CoreML and Vision.",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/13/53/ed/1353ed55-9625-fd96-cb64-c3365cd17cde/AppIcon-0-1x_U007emarketing-0-85-220-7.png/1200x630wa.png",
+        "linkText": "App Store",
+        "link": "https://apps.apple.com/om/app/smartivity-magico/id1446703443",
+        "icon": "apple"
+      },
+      {
+        "title": "Spell English",
+        "category": "EDUCATION",
+        "description": "Companion app for Kidzee Imagenie physical learning set using blended learning with LSRW methodology. Features letter recognition, phonics, word formation, and sentence completion. Age-specific modules for Play Group through Senior KG with experiential learning and audio-visual interactivity. Developed immersive educational experience enhancing literacy, cognitive, and motor skills.",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/cb/d3/da/cbd3da38-73c8-91a4-3f45-6ed4fd222afe/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",
+        "linkText": "App Store",
+        "link": "https://apps.apple.com/in/app/spell-english/id1374878431",
+        "icon": "apple"
+      }
+    ]
+  },
+
+  "competencies": [
+    {
+      "label": "Languages",
+      "value": "Swift, Objective-C, Python",
+      "icon": "cpu"
+    },
+    {
+      "label": "Architecture",
+      "value": "VIPER, Micro Apps, Server-Driven UI",
+      "icon": "layout"
+    },
+    {
+      "label": "Native Frameworks",
+      "value": "UIKit, SwiftUI, Core Animation, Graphics",
+      "icon": "layers"
+    },
+    {
+      "label": "ML & Vision",
+      "value": "Core ML, Vision, OpenCV, Core Image",
+      "icon": "zap"
+    },
+    {
+      "label": "Concurrency",
+      "value": "Swift async/await, Combine, Reactive",
+      "icon": "zap"
+    },
+    {
+      "label": "APIs & Networking",
+      "value": "GraphQL, REST, URLSession, HTTP/HTTPS",
+      "icon": "database"
+    },
+    {
+      "label": "DevOps",
+      "value": "Jenkins, Fastlane, TeamCity, CI/CD",
+      "icon": "cpu"
+    },
+    {
+      "label": "Testing",
+      "value": "XCTest, XCUITest, TDD, Unit Testing",
+      "icon": "zap"
+    }
+  ],
+
+  "contact": {
+    "title": "Let's Connect",
+    "subtitle": "Open to discussing iOS opportunities, technical architecture challenges, or collaboration on high-impact mobile projects. Whether you're building the next generation of secure consumer apps or tackling complex platform engineering problems—let's talk.",
+    "links": [
+      {
+        "label": "Email Me",
+        "subtitle": "Direct Communication",
+        "icon": "mail",
+        "url": "mailto:sawanmind91@outlook.com",
+        "color": "bg-primary/10 text-primary"
+      },
+      {
+        "label": "LinkedIn",
+        "subtitle": "Professional Network",
+        "icon": "linkedin",
+        "url": "https://linkedin.com/in/sawanmind",
+        "color": "bg-blue-50 text-blue-600"
+      },
+      {
+        "label": "GitHub",
+        "subtitle": "Code Repository",
+        "icon": "github",
+        "url": "https://github.com/sawanmind",
+        "color": "bg-stone-50 text-stone-600"
+      },
+      {
+        "label": "Download Resume",
+        "subtitle": "PDF Download",
+        "icon": "download",
+        "url": "https://docs.google.com/document/d/1Wo6Ja-VE0Vg4c9bQP15cWgc8IcqHLFSZttTEUJcdYVc/export?format=pdf",
+        "color": "bg-green-50 text-green-600"
+      }
+    ]
+  },
+
+  "social": {
+    "github": "https://github.com/sawanmind",
+    "linkedin": "https://linkedin.com/in/sawanmind",
+    "twitter": "https://twitter.com/sawanmind"
+  }
+}
