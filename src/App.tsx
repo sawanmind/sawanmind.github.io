@@ -300,33 +300,27 @@ export default function App() {
     setSendStatus('idle');
 
     try {
-      // Extract email from content.json contact links
-      const emailLink = content?.contact.links.find(link => link.icon === 'mail');
-      if (!emailLink) {
-        throw new Error('Contact email not configured');
-      }
-      const recipientEmail = emailLink.url.replace('mailto:', '');
-
-      // Send email using FormSubmit.co (free, no backend needed)
-      const response = await fetch(`https://formsubmit.co/ajax/${recipientEmail}`, {
+      // Send email using Web3Forms (free, no backend needed)
+      const response = await fetch('https://api.web3forms.com/submit', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
           'Accept': 'application/json'
         },
         body: JSON.stringify({
+          access_key: '2a727e54-e3a0-40aa-92eb-6b92994fb2a9',
           name: formData.name,
           email: formData.email,
           message: formData.message,
-          _subject: `Portfolio Contact: ${formData.name} - ${formData.email}`,
-          _template: 'table',
-          _captcha: 'false'
+          subject: `Portfolio Contact: ${formData.name}`,
+          from_name: formData.name,
+          replyto: formData.email
         })
       });
 
       const data = await response.json();
 
-      if (response.ok && data.success) {
+      if (data.success) {
         setSendStatus('success');
         setFormData({ name: '', email: '', message: '' });
         setFormErrors({ name: '', email: '', message: '' });
